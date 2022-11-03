@@ -27,6 +27,6 @@ $ time ./main moby.txt
 
 # after
 $ time ./main -w moby.txt
-  215822 moby.txt
+"moby.txt": 215822 moby.txt
 ./main mody.txt  0.02s user 0.01s system 82% cpu 0.033 total
 ```
